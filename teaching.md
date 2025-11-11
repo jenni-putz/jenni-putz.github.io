@@ -24,16 +24,20 @@ For a complete report of all of my course evaluations and student comments, plea
 <iframe height="400" width="100%" frameborder="no" src="https://jenniputz.shinyapps.io/course_evals/"> </iframe> -->
  <h6>Eastern Michigan University: </h6>
 	<font size="4"><ul id="menu">
-	<li><b>EC 202: Principles of Microeconomics</b> (Fall 2022, Fall 2023 (scheduled)) <br>
+	<li><b>ECON 202: Principles of Microeconomics</b><br>
 		<a href="/EC202_Syllabus.pdf">Syllabus</a></li>
 		<p> The purpose of this course is to cultivate students' economic intuition. A main goal of the course is to teach studens how to think as an economist. We will consider how social outcomes are shaped by the decisions of many individuals, even though each individual commands only a small fraction of the economy. Expanding upon the notion that individuals respond to incentives, we will use models to analyze and assess a variety of social phenomena. Successful students will leave the course with an intellectual framework for understanding and evaluating economic issues and policy.</p>
-	<li><b>EC 336: Environmental Economics</b> (Winter 2023) <br>	
+	<li><b>ECON 336: Environmental Economics</b><br>	
 		<a href="/EC336_Syllabus.pdf">Syllabus</a></li>
 		<p> This course focuses on applying basic economic theory to natural and environmental resources problems. Topics include economic perspectives on the concepts of sustainability and natural resource scarcity (static and dynamically efficient allocations) for nonrenewable or depletable resources (minerals, groundwater), optimal management of renewable resources (surface water, fisheries, forests), and pollution management strategies (including use of economic incentives such as pollution taxes and/or tradable permits, and legal liability for pollution control). </p>
-	<li><b>EC 455W/555: Cost-Benefit Analysis</b> (Winter 2023) <br>
+		<li><b>ECON 415: Introduction to Econometrics</b><br>
+		<p>This course introduces the statistical techniques that help economists learn about the world using data. We will focus much of our attention on regression analysis, the workhorse of applied econometrics. We apply the insights of theory to work with and learn from actual data using R, a statistical programming language. Topics include simple and multiple regressoin, nonlinear regression, simulations, and an introduction to machine learning methods for economics.</p>
+	<li><b>ECON 455W/555: Cost-Benefit Analysis</b><br>
 		<a href="/EC455W_Syllabus.pdf">Syllabus</a></li>
 		<p>Cost-benefit analysis involves the use of microeconomics to assess the costs and benefits of policies or investments. Drawing on a mixture of economic theory and real-life studies, this course provides students with the theoretical foundations and practical skills to understand, assess, and conduct cost-benefit analyses. </p>
-	<li><b>EC 511: Mathematical Economics</b> (Fall 2022, Fall 2023 (scheduled)) <br>
+<li><b>ECON 480W/580: International Trade</b><br>
+		<p>International Trade and Theory is an examination of the microeconomic foundations of international trade. We will focus on the historical evolution of trade theories that explain why nations trade, how they gain from trade, and the welfare implications of trade. We will also cover the influence of government intervention on trade flows (tariffs, quotas) and international factor movements (immigration, foreign direct investment). </p>	
+<li><b>ECON 511: Mathematical Economics</b><br>
 		<a href="/EC511_Syllabus.pdf">Syllabus</a></li>
 		<p> Survey of mathematical techniques used in contemporary economic analysis. Topics include applications of linear algebra, multivariable calculus, integration, and optimization theory to micro and macro economics. </p>
   
