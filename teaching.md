@@ -18,8 +18,6 @@ img {
 <body>
 	<hr>
 
-
-<iframe height="400" width="100%" frameborder="no" src="https://jenniputz.shinyapps.io/course_evals/"> </iframe> -->
  <h6>Eastern Michigan University: </h6>
 	<font size="4"><ul id="menu">
 	<li><b>ECON 202: Principles of Microeconomics</b><br>
@@ -58,7 +56,6 @@ intuitive understanding of the problems to explain the relationship between mark
 	    <p> This course introduces the statistical techniques that help economists learn about the world using data--with much of the course focusing on regression analysis. Using calculus and introductory statistics, we will cultivate a working understanding of the theory underpinning regression analysis. During the course, students will apply the insights of theory to work with and learn from actual data using R, a statstical programming language. By the end of the course, students will be able to understand the theory behind linear regression, estimate a linear regression using R, identify the conditions for OLS validity, and interpret the results.	 </p>  
     </ul></font>
 	
-</body>
-</html>
+
 
 
